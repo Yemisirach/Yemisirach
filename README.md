@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yemisirach</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on [To Do List](https://yemisirach.github.io/Todo-List/dist/)
+- 🔭 I’m currently working on web development at Browsio.
 
 - 🌱 I’m currently learning **Software Developmet**
 
