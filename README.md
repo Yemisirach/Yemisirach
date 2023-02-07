@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yemsrach3723@gmail.com**
 
-- 📄 Know about my experiences [https://yemisrach21.com/img/Yemisrach-Resume.pdf](https://yemisrach21.com/img/Yemisrach-Resume.pdf)
+- 📄 Know about my experiences [Resume](https://yemisrach21.com/img/Yemisrach-Resume.pdf)
 
 - ⚡ Fun fact **I thing am so positive.**
 
