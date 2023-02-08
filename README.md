@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Yemisirach</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 
--  🤝 I’m open to work oportunity as Frontend web development and Backend web developer.
+-  🤝 I’m currently open to work oportunity as Frontend web development and Backend web developer.
 
 - 🌱 I’m currently learning **Software Developmet**
 
