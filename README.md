@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Yemisirach</h1>
+<h1 align="center">Hi there 👋, I'm Yemisirach</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on web development at Browsio.
+-  🤝 I’m open to work as Frontend web development and Backend web developer.
 
 - 🌱 I’m currently learning **Software Developmet**
 
 - 👯 I’m looking to collaborate on [Awsome Book](https://yemisirach.github.io/Awsome-book-ES6/)
 
-- 🤝 I’m looking for voluntary with [Browsio](https://browsio.co.uk)
+- 🔭 I’m working for voluntary as frontend developer in [Browsio](https://browsio.co.uk)
 
 - 👨‍💻 All of my projects are available at [yemisrach21.com](yemisrach21.com)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://yemisrach21.com/img/Yemisrach-Resume.pdf)
 
-- ⚡ Fun fact **I thing am so positive.**
+- ⚡ Fun fact **I thing am positive and Happy person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
