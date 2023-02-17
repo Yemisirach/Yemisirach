@@ -37,4 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yemisirach&show_icons=true&locale=en" alt="yemisirach" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yemisirach&" alt="yemisirach" /></p>
-https://komarev.com/ghpvc/?username=batoorsohail&label=Profile%20views&color=0e75b6&style=flat
