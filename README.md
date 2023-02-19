@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software Developmet**
 
-- 👯 I’m looking to collaborate on [Awsome Book](https://yemisirach.github.io/Awsome-book-ES6/)
+- 👯 I’m looking to collaborate on on open source projects.
 
 - 🔭 I’m working for voluntary as frontend developer in [Browsio](https://browsio.co.uk)
 
