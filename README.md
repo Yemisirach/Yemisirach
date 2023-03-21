@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://yemisrach21.com/img/Yemisrach-Resume.pdf)
 
-- ⚡ Fun fact **I thing am positive and Happy person.**
+- ⚡ Fun fact **I think am positive and Happy person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
