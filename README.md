@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Yemisirach</h1>
 <h3 align="center">A passionate Full stack developer from Ethiopia</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yemisirach&label=Profile%20views&color=0e75b6&style=flat" alt="yemsrachTamirat" /> </p>
 -  🤝 I’m currently open to work oportunity as Frontend web development and Backend web developer.
 
 - 🌱 I’m currently learning **Software Developmet**
