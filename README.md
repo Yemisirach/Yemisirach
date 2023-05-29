@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on on open source projects.
 
-- 🔭 I’m working for voluntary as frontend developer in [Browsio](https://browsio.co.uk)
+- 🔭 I’m working frontend developer in [vawick conculting](https://vawick.com)
 
 - 👨‍💻 All of my projects are available at [yemisrach21.com](yemisrach21.com)
 
