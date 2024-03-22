@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [yemisrach21.com](yemisrach21.com)
 
-- 💬 Ask me about **HTML,CSS,Bootstrap,Javascript,React and Redux**
+- 💬 Ask me about **HTML,CSS,Tailwind,Bootstrap,Javascript,React,Nextjs and Redux**
 
 - 📫 How to reach me **yemsrach3723@gmail.com**
 
